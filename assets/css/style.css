@@ -44,7 +44,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #ff3366;
+  background: #ff33a6;
 }
 
 #preloader:before {
@@ -52,7 +52,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ff3366;
+  border: 6px solid #ff33a6;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -112,14 +112,14 @@ h6 {
   z-index: 997;
   padding: 15px 0;
   /* background :#105b9a */
-  /* background:#ff3366; */
+  /* background:#ff33a6; */
 }
 
 #header.header-scrolled,
 #header.header-inner-pages {
   /* background: rgba(40, 58, 90, 0.9); */
 	/* background: #105b9a;  */
-	/* background:#ff3366; */
+	/* background:#ff33a6; */
 }
 
 #header .logo {
@@ -342,7 +342,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .navbar-mobile a:hover,
@@ -354,7 +354,7 @@ h6 {
 .navbar-mobile .getstarted,
 .navbar-mobile .getstarted:focus {
   margin: 15px;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .navbar-mobile .dropdown ul {
@@ -548,7 +548,7 @@ section {
   }
 
 .count-chiffre {
-	color: #ff3366;    
+	color: #ff33a6;    
 	text-align: center;
 }
 
@@ -687,7 +687,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .why-us .content h4 {
@@ -812,7 +812,7 @@ section {
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
-  color: #ff3366;
+  color: #ff33a6;
   font-family: "Poppins", sans-serif;
 }
 
@@ -849,7 +849,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .skills .progress .skill .val {
@@ -896,7 +896,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #ff3366;
+  color: #ff33a6;
   transition: ease-in-out 0.3s;
 }
 
@@ -1159,7 +1159,7 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .team .member span {
@@ -1205,7 +1205,7 @@ section {
 }
 
 .team .member .social a i {
-  color: #ff3366;
+  color: #ff33a6;
   font-size: 16px;
   margin: 0 2px;
 }
@@ -1242,12 +1242,12 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 20px;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .pricing h4 {
   font-size: 48px;
-  color: #ff3366;
+  color: #ff33a6;
   font-weight: 400;
   font-family: "Jost", sans-serif;
   margin-bottom: 25px;
@@ -1409,7 +1409,7 @@ section {
 }
 
 .faq .faq-list a.collapsed {
-  color: #ff3366;
+  color: #ff33a6;
   transition: 0.3s;
 }
 
@@ -1462,7 +1462,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .contact .info p {
@@ -1640,7 +1640,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 .breadcrumbs ol {
@@ -1668,7 +1668,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #ff3366;
+  background: #ff33a6;
 }
 
 #footer .footer-newsletter {
@@ -1685,7 +1685,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 #footer .footer-newsletter form {
@@ -1740,7 +1740,7 @@ section {
   line-height: 1;
   text-transform: uppercase;
   font-weight: 600;
-  color: #ff3366;
+  color: #ff33a6;
 }
 
 #footer .footer-top .footer-contact p {
@@ -1754,7 +1754,7 @@ section {
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #ff3366;
+  color: #ff33a6;
   position: relative;
   padding-bottom: 12px;
 }
